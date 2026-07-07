@@ -1,1 +1,1 @@
-web: gunicorn leadGen:app
+web: python leadGen.py
